@@ -8,7 +8,6 @@ langchain-groq
 langchain-mistralai
 langchain-huggingface
 huggingface_hub
-transformers
 python-dotenv
 faiss-cpu
 tiktoken
