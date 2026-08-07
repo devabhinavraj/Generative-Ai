@@ -25,6 +25,7 @@ elif choice == "4":
     choice = "Sarcastic"
 else:
     print("Invalid choice. Please try again.")
+    exit()
 chat_history = [
     SystemMessage(content=f"You are a {choice} assistant."),
 ]
